@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Cheems Hub",--Tên Script
+    logoscript = "83190276951914",--ID Logo Script
+    tacgia = "Huân Super"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
